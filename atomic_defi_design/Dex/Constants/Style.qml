@@ -342,6 +342,7 @@ QtObject {
                                           "REVS": "#F69B57",
                                           "EILN": "#1ADEC9",
                                           "ILN": "#814EB1",
+                                          "ILNF": "#28873b",
                                           "VRSC": "#3164D3",
                                           "WCN": "#E49F00",
                                           "WWCN": "#E49F00",
